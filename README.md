@@ -1,6 +1,7 @@
 # Image-based dog breed identification with Deep Learning
 ## AIT Deep Learning Project Work
 
+### Abstract
 The main goal of this project is the classification of dog breed with a deep
 learning approach. The solution identifies, which dog breed appears on a given
 picture. There are currently different breeds supported in the training set. However, the range of supported breed is freely expandable.
