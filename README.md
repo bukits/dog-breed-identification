@@ -2,10 +2,8 @@
 ## AIT Deep Learning Project Work
 
 ### Abstract
-The main goal of this project is the classification of dog breed with a deep
-learning approach. The solution identifies, which dog breed appears on a given
-picture. There are currently different breeds supported in the training set. However, the range of supported breed is freely expandable.
-For the perfect user experience our aim is to develop an IOS application for detecting the unseen dogs breed. 
+The main goal of this project is to find a solution to classify dog breeds with a deep learning approach. Given pictures of different dogs, the solution should identify which breeds the dogs are. Currently, 120 different breeds are supported in our training set, but later, the range of supported breeds could be expanded based on needs.
+In order to have a better user experience, we aim to develop an IOS application for detecting dog breeds using the above solution we have. 
 
 ### Team members
 - Minxi Duan ([duan23m@mtholyoke.edu](mailto:duan23m@mtholyoke.edu))
@@ -15,5 +13,6 @@ For the perfect user experience our aim is to develop an IOS application for det
 
 - 20598 pictures
 - 120 labels (different dog breeds)
-- actual image size varies
-- image size read into opencv: 64x64, inter cubic interpolation
+- Actual image size varies
+- Image size read into opencv: 64x64, inter cubic interpolatio
+
