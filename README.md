@@ -16,3 +16,6 @@ In order to have a better user experience, we aim to develop an IOS application 
 - Actual image size varies
 - Image size read into opencv: 64x64, inter cubic interpolatio
 
+## Link to our Final project
+Since our colob code size exceed the maximum file size that can be uploaded to Github, we add the link to our code here
+Link is [Dog_Breeds_Identification](https://colab.research.google.com/drive/1eIqFKEerrt2Iia1Fd9IYi0GL32zloTsX#scrollTo=DKXtzXQgvFFR).
